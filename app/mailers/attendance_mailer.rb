@@ -1,5 +1,5 @@
 class AttendanceMailer < ApplicationMailer
-	default form: 'no-reply@monsite.fr'
+	default form: 'hello@yopmail.com'
 
 	layout "mailer"
 
